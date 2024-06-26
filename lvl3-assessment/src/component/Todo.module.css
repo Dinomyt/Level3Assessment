@@ -1,0 +1,17 @@
+.addButton {
+    border: white;
+  }
+  
+  .removeButton {
+    color: black;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0px;
+  }
+  
+  .removeButton:hover {
+    text-decoration: underline;
+  }
+  
+  
